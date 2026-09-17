@@ -62,7 +62,14 @@ This dashboard provides a centralized view of sales performance and helps busine
 
  ★ Skills Demonstrated
 
-**Excel • Data Cleaning • Pivot Tables • Data Visualization • KPI Analysis • Sales Analytics • Dashboard Design • Business Insights**
+*Excel
+• Data Cleaning 
+• Pivot Tables 
+• Data Visualization 
+• KPI Analysis 
+• Sales Analytics 
+• Dashboard Design 
+• Business Insights**
 
 
 
